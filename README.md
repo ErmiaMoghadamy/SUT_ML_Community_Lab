@@ -1,6 +1,6 @@
 # SUT_ML_Community_Lab
-#### moderated by MathSci-Campus students
-student-led community for data science & machine learning practices
+
+student-moderated community for data science & machine learning at Sharif University of Technology (SUT)
 #### founding lead: [Ermia Moghadamy](https://github.com/ErmiaMoghadamy)
 
 
