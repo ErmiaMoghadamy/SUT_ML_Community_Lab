@@ -1,7 +1,7 @@
 # SUT_ML_Community_Lab
 #### moderated by MathSci-Campus students
 student-led community for data science & machine learning practices
-#### founding lead: (https://github.com/ErmiaMoghadamy)[Ermia Moghadamy]
+#### founding lead: (Ermia Moghadamy)[https://github.com/ErmiaMoghadamy]
 
 
 ## Status
