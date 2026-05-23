@@ -1,6 +1,6 @@
 # SUT_ML_Community_Lab
 
-![](Artifact/logo.png)
+<img width="210px" src="Artifact/logo.png" alt="Sharif ML Community" />
 student-moderated community for data science & machine learning at Sharif University of Technology (SUT)
 
 ## Core Team
