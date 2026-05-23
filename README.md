@@ -1,5 +1,6 @@
 # SUT_ML_Community_Lab
 
+![](Artifact/logo.png)
 student-moderated community for data science & machine learning at Sharif University of Technology (SUT)
 
 ## Core Team
