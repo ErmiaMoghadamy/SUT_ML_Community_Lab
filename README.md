@@ -13,7 +13,7 @@ student-moderated community for data science & machine learning at Sharif Univer
 ## Status
 - [X] Introduction to Community (session #0)
 - [X] Introduction To Machine Learning (session #1)
-- [ ] Honor Lecture + End-to-End Machine Learning Part I (session #2)
+- [X] Honor Lecture + End-to-End Machine Learning Part I (session #2)
 - [ ] End-to-End Machine Learning Part II (session #2)
 
 
