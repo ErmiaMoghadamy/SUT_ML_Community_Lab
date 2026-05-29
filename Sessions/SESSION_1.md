@@ -3,7 +3,8 @@
 Subject: Chapter 01 - The Machine Learning Landscape 
 Project: Machine Learning Study Group 
 Date: [1405/02/31] 
-Lead Presenters: Ermia Moghadami, Hamed Mirzaei, Taha Mohammadi 
+
+### Presenters: Ermia Moghadamy, Hamed Mirzaei, Taha Mohammadi 
 Minutes Recorded by: Taha Mohammadi 
 
 ---
