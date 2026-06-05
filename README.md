@@ -13,9 +13,10 @@ student-moderated community for data science & machine learning at Sharif Univer
 ## Status
 - [X] Introduction to Community (session #0)
 - [X] Introduction To Machine Learning (session #1)
-- [X] Honor Lecture + End-to-End Machine Learning Part I (session #2)
-- [ ] End-to-End Machine Learning Part II (session #2)
-
+- [X] Honor Lecture (Master Fakhralami) + End-to-End Machine Learning Part I (session #2)
+- [X] End-to-End Machine Learning Part II (session #3)
+- [ ] Honor Lecture (Arman Taheri) + Chapter 3 (session #4)
+- [ ] 
 
 ## Resources
 - Hands on ML (O'Reilly)
